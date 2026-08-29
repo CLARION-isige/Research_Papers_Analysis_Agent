@@ -1,0 +1,22 @@
+{
+  "summary": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms. Dispensing with recurrence and convolutions entirely, our experiments on two machine translation tasks show that the Transformer achieves superior performance while requiring significantly less training time. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French task, our model establishes a new single-model state-of-the-art BLEU score of 41.8.",
+  "methodology": "We propose a new simple network architecture, the Transformer, based solely on attention mechanisms.",
+  "key_findings": "achieves superior performance while requiring significantly less training time.",
+  "limitations": "Not available in abstract-only baseline",
+  "related_work": "Not available in abstract-only baseline",
+  "paper_metadata": {
+    "title": "Attention Is All You Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "Illia Polosukhin"
+    ],
+    "year": "2017",
+    "arxiv_id": "1706.03762"
+  }
+}
